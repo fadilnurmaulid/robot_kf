@@ -138,7 +138,7 @@ plt.show()
 
 ---
 
-## 🧩 Why This Matters (Industry Context)
+## 🧩 Why This Matters
 
 This workflow is directly applicable to:
 
@@ -169,4 +169,4 @@ Kalman Filters remain a **core building block** in robotics, even when combined 
 ---
 
 👤 **Author**
-Fadil — Physics Student
+Fadil Nurmaulid — Physics Student
